@@ -10,4 +10,4 @@
 2. [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://cs.stanford.edu/people/jcjohns/eccv16/)
 
 ### Style-Transfer Github_project
-path = "StyleTransfer/Data/[vgg19_weights.h5](https://drive.google.com/file/d/1hEuIGJWk-hQ8vxub3Ks0GpEHT6AtRTD0/view?usp=sharing)"
+path = "StyleTransfer/data/[vgg19_weights.h5](https://drive.google.com/file/d/1hEuIGJWk-hQ8vxub3Ks0GpEHT6AtRTD0/view?usp=sharing)"
