@@ -9,11 +9,11 @@
 2. [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://cs.stanford.edu/people/jcjohns/eccv16/)
 
 19.08.02~ 19.08.10: 각자 다양한 방법으로 모델/코드 뜯어보기 <br>
--   @kimdanny : VGG16, VGG19 모델 시도
--   @sunnydaisy : hyperparameter 
--   @JehunYoo : 
--   @funny0601 : content layer 17개 해체 및 다시 combining
--   @gyuwon10 : 
+- 규원: 
+- 도은: VGG16, VGG19 모델 시도
+- 세영 : content layer 17개 해체 및 다시 combining
+- 제훈: 
+- 지선: hyperparameter 조정 
 
 
 ### Style-Transfer Github_project
