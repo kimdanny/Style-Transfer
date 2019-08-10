@@ -12,7 +12,7 @@
 - 규원: 
 - 도은: VGG16, VGG19 모델 시도
 - 세영 : content layer 17개 해체 및 다시 combining
-- 제훈: convolution feature map visualization & multi-style-image control
+- 제훈: convolution feature map visualization & noise image visualization
 - 지선: hyperparameter 조정, multi-style-image
 
 
