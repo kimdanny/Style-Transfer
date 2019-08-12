@@ -7,6 +7,7 @@
 19.07.30~ 19.08.01: Style Transfer 관련 배경지식, 논문 공부
 1. [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 2. [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://cs.stanford.edu/people/jcjohns/eccv16/)
+3. [kaggle_kernel by greg115](https://www.kaggle.com/greg115/style-transfer)
 
 19.08.02~ 19.08.10: 각자 다양한 방법으로 모델/코드 뜯어보기 <br>
 - 규원: 
