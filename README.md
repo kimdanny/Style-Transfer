@@ -20,17 +20,7 @@
 ### Style-Transfer Github_project
 path = "StyleTransfer/data/[vgg19_weights.h5](https://drive.google.com/file/d/1hEuIGJWk-hQ8vxub3Ks0GpEHT6AtRTD0/view?usp=sharing)"
 
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-
-
-
+<br><br>
 
 
 > [OpenCV를 사용한 Neural Style Transfer](https://tykimos.github.io/2018/10/10/Neural_Style_Transfer_with_OpenCV/) trial output
