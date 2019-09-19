@@ -4,13 +4,15 @@
 
 ### 프로젝트 진행 과정 
 
+**대부분의 프로젝트는 Google Drive와 Google Colab에서 진행함**
+
 19.07.30~ 19.08.01: Style Transfer 관련 배경지식, 논문 공부
 1. [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 2. [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://cs.stanford.edu/people/jcjohns/eccv16/)
 3. [kaggle_kernel by greg115](https://www.kaggle.com/greg115/style-transfer)
 
-19.08.02~ 19.08.10: 각자 다양한 방법으로 모델/코드 뜯어보기 <br>
-- 규원: Comparison of VGG16 and vGG19 model with output images from 5 content images and 5 style images
+19.08.02~ 19.08.20: 각자 다양한 방법으로 모델/코드 뜯어보기 & 변형/시도<br>
+- 규원: Comparison of VGG16 and VGG19 model with output images from 5 content images and 5 style images
 - 도은: VGG16, VGG19 모델 Layers Visualisation. Trying different performance comparison tests(eg. cropped image transfer)
 - 세영 : content layer 17개 해체 및 다시 combining
 - 제훈: convolution feature map visualization & noise image visualization
