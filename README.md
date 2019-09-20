@@ -16,7 +16,7 @@
 - Sunny: Hyperparameter manipulation, Multi-Style-Image.
 
 
-path = "StyleTransfer/data/[vgg19_weights.h5]"(https://drive.google.com/file/d/1hEuIGJWk-hQ8vxub3Ks0GpEHT6AtRTD0/view?usp=sharing)
+path = "StyleTransfer/data/[vgg19_weights.h5](https://drive.google.com/file/d/1hEuIGJWk-hQ8vxub3Ks0GpEHT6AtRTD0/view?usp=sharing)"
 
 <br><br>
 
