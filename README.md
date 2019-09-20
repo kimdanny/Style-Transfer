@@ -4,7 +4,8 @@
 
 ### 프로젝트 진행 과정 
 
-**대부분의 프로젝트는 Google Drive와 Google Colab에서 진행함 (코드 실행시 GPU 사용 )**
+**Project was mostly proceeded on Google Drive and Google Colab**
+(Recommend running on GPU)
 
 19.07.30~ 19.08.01: Style Transfer 관련 배경지식, 논문 공부
 1. [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
