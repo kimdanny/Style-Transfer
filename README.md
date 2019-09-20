@@ -1,10 +1,6 @@
 # Style-Transfer
 
-
-
-### 프로젝트 진행 과정 
-
-**Project was mostly proceeded on Google Drive and Google Colab**
+**The Project was mostly proceeded on Google Drive and Google Colab**
 (Recommend running on GPU)
 
 19.07.30~ 19.08.01: Style Transfer 관련 배경지식, 논문 공부
@@ -20,8 +16,7 @@
 - Sunny: Hyperparameter manipulation, Multi-Style-Image.
 
 
-### Style-Transfer Github_project
-path = "StyleTransfer/data/[vgg19_weights.h5](https://drive.google.com/file/d/1hEuIGJWk-hQ8vxub3Ks0GpEHT6AtRTD0/view?usp=sharing)"
+path = "StyleTransfer/data/[vgg19_weights.h5]"(https://drive.google.com/file/d/1hEuIGJWk-hQ8vxub3Ks0GpEHT6AtRTD0/view?usp=sharing)
 
 <br><br>
 
