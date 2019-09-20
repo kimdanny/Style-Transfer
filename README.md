@@ -12,11 +12,11 @@
 3. [kaggle_kernel by greg115](https://www.kaggle.com/greg115/style-transfer)
 
 19.08.02~ 19.08.20: 각자 다양한 방법으로 모델/코드 뜯어보기 & 변형/시도<br>
-- 규원: Comparison of VGG16 and VGG19 model with output images from 5 content images and 5 style images
-- 도은: VGG16, VGG19 모델 Layers Visualisation. Trying different performance comparison tests(eg. cropped image transfer)
-- 세영 : content layer 17개 해체 및 다시 combining
-- 제훈: convolution feature map visualization & noise image visualization
-- 지선: hyperparameter 조정, multi-style-image
+- 규원: Comparison of VGG16 and VGG19 model with output images from 5 content images and 5 style images.
+- 도은: VGG16, VGG19 and inception Models Layers Visualisation. Trying different performance comparison tests.
+- 세영 : 17 Content layer dismantle and recombining.
+- 제훈: Convolution feature map visualization & noise image visualization.
+- 지선: Hyperparameter manipulation, Multi-Style-Image.
 
 
 ### Style-Transfer Github_project
